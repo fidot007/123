@@ -1,0 +1,17 @@
+C:\Users\comcuru\Downloads\KT7\MasterPol\bin\Debug\MasterPol.exe.config
+C:\Users\comcuru\Downloads\KT7\MasterPol\bin\Debug\MasterPol.exe
+C:\Users\comcuru\Downloads\KT7\MasterPol\bin\Debug\MasterPol.pdb
+C:\Users\comcuru\Downloads\KT7\MasterPol\obj\Debug\KT7.csproj.AssemblyReference.cache
+C:\Users\comcuru\Downloads\KT7\MasterPol\obj\Debug\MainWindow.g.cs
+C:\Users\comcuru\Downloads\KT7\MasterPol\obj\Debug\Pages\MainList.g.cs
+C:\Users\comcuru\Downloads\KT7\MasterPol\obj\Debug\App.g.cs
+C:\Users\comcuru\Downloads\KT7\MasterPol\obj\Debug\MasterPol_MarkupCompile.cache
+C:\Users\comcuru\Downloads\KT7\MasterPol\obj\Debug\MasterPol_MarkupCompile.lref
+C:\Users\comcuru\Downloads\KT7\MasterPol\obj\Debug\MainWindow.baml
+C:\Users\comcuru\Downloads\KT7\MasterPol\obj\Debug\Pages\MainList.baml
+C:\Users\comcuru\Downloads\KT7\MasterPol\obj\Debug\MasterPol.g.resources
+C:\Users\comcuru\Downloads\KT7\MasterPol\obj\Debug\MasterPol.Properties.Resources.resources
+C:\Users\comcuru\Downloads\KT7\MasterPol\obj\Debug\KT7.csproj.GenerateResource.cache
+C:\Users\comcuru\Downloads\KT7\MasterPol\obj\Debug\KT7.csproj.CoreCompileInputs.cache
+C:\Users\comcuru\Downloads\KT7\MasterPol\obj\Debug\MasterPol.exe
+C:\Users\comcuru\Downloads\KT7\MasterPol\obj\Debug\MasterPol.pdb
